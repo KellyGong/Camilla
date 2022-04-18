@@ -1,0 +1,8 @@
+**/__pycache__
+checkpoint
+runs
+.idea
+logs
+.vscode
+tmp/
+result
